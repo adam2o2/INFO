@@ -6,11 +6,13 @@ Giftable Privacy Policy
 
 At Giftable, we prioritize your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our app.
 
-Information We Collect We collect the following information to provide and enhance your experience with Giftable:
+**Information We Collect:** We collect the following information to provide and enhance your experience with Giftable:
 
-Email Address: We collect and verify your email address to authenticate your account and ensure a secure and personalized experience.
-Chat Name: You create a chat to identify your chat name within the app.
-Chat Messages: Messages shared in chats are used to personalize gift recommendations and improve user interactions. Your chat history is stored securely within your account.
+1. **Email Address:** We collect and verify your email address to authenticate your account and ensure a secure and personalized experience.
+
+2. **Chat Name:** You create a chat to identify your chat name within the app.
+
+3. **Chat Messages:** Messages shared in chats are used to personalize gift recommendations and improve user interactions. Your chat history is stored securely within your account.
 How We Use Your Information We use your information for the following purposes:
 
 To verify your identity and provide a secure, personalized experience.
