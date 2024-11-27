@@ -18,7 +18,7 @@ How We Use Your Information We use your information for the following purposes:
 To verify your identity and provide a secure, personalized experience.
 To assist with gift recommendations by analyzing chat inputs and preferences.
 To store and retrieve your messages to maintain the continuity of conversations.
-Data Security and Storage All user data, including chat messages and email addresses, is securely stored in Firebase Firestore. You can find more details about Firebase’s privacy practices here: Firebase Privacy Policy.
+Data Security and Storage All user data, including chat messages and email addresses, is securely stored in Firebase Firestore. You can find more details about Firebase’s privacy practices here: Firebase Privacy Policy https://firebase.google.com/support/privacy.
 
 Third-Party Services We do not share your information with third parties for advertising or marketing. Any third-party services we use (e.g., Firebase Firestore) adhere to strict privacy and security standards.
 
